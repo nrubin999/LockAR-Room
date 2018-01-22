@@ -1,6 +1,6 @@
 # LockAR Room
 
-Try on, share, and purchase iconic FC Bayern jerseys using ARKit for iPhone X. Built for FC Bayern HackDays.
+Try on, share, and purchase iconic FC Bayern jerseys using ARKit for iPhone X. (#FCBayernHackDays)
 
 ## Challenge description
 
